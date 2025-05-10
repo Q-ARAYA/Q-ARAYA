@@ -15,8 +15,8 @@
   <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
 </p>
 
-<h3 align="center">
-  Langueges
+<h3>
+  About me
 </h3>
 
 ---
