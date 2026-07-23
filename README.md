@@ -28,7 +28,7 @@
 - Currently exploring blockchain ecosystems such as Starknet and Stellar.
 - Always looking for opportunities to contribute, collaborate, and grow as a developer.
 
-
+---
 
 #### 🔧 Languages
 
