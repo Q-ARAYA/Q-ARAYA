@@ -28,7 +28,7 @@
 - Currently exploring blockchain ecosystems such as Starknet and Stellar.
 - Always looking for opportunities to contribute, collaborate, and grow as a developer.
 
----
+
 
 #### 🔧 Languages
 
@@ -40,7 +40,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
----
+
 
 #### 🎨 Frontend
 
@@ -51,7 +51,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+
 
 #### ⚙️ Backend & Tools
 
@@ -60,7 +60,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 #### 🗄️ Databases & Other Technologies
 
