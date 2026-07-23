@@ -69,6 +69,17 @@
 
 ---
 
+## 📊 GitHub Stats
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Q-ARAYA&theme=tokyonight" width="48%"/>
+</p>
+
+<br>
+
+---
+
 #### 🧩 Areas of Interest
 
 - Data Structures & Algorithms
